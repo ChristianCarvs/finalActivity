@@ -5,6 +5,7 @@ if(isset($_POST['submit'])) {
 	$pass = $_POST['password'];
 	if($user == "admin" && $pass == "123") {
 		echo("Username and Password matched!");
+		header("Location: home.php");
 	}
 	echo("Incorrect Username and Password!");
 }
@@ -31,7 +32,7 @@ if(isset($_POST['submit'])) {
 					</div>
 					<div class="card shadow-lg">
 						<div class="card-body p-5">
-							<h1 class="fs-4 card-title fw-bold mb-4 center_h1">INDEX</h1>
+							<h1 class="fs-4 card-title fw-bold mb-4 center_h1">LOGIN</h1>
 							
 							<form method="POST" action="">
 								<div class="txtb">
