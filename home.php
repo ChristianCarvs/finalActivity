@@ -22,7 +22,7 @@
 			Bantoto, Sheen Mae <br><br>
 			Carvajal, Christian Franc M. <br><br>
 			Cadalin, Jocelyn T. <br><br>
-			Ferjoles, Hayna J. <br><br>
+			Frejoles, Hayna J. <br><br>
 			Gele, Niña Lynn D. <br><br>
 			Juanillo, Maria Luz A. <br><br>
 			Labandia, Johna Mae O.
