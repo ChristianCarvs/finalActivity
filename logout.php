@@ -9,7 +9,7 @@
 
 <body>
 	<?php 
-	echo "<script> location.href='https://its300sectionc-webdev1.000webhostapp.com/'; </script>";  /* Redirect to login page */
+	echo "<script> location.href='http://its300sectioncwebdev.live/'; </script>";  /* Redirect to login page */
 	exit;
 	?>
 </body>
