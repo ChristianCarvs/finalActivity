@@ -193,7 +193,7 @@ $user_data = check_login($con);
 <style type="text/css">
 body {
 	margin-top: 20px;
-	background-image: url('https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+	background-image: url('aw.jpg');
 }
 
 @keyframes animate {
